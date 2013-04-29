@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.Sprite		public class Node extends Sprite {				public var nodeDisc:NodeDisc;		public var nodeBranchesArray:Array;		public function Node(startX:Number, startY:Number) {			// constructor code		}				public function drawNode(): void {	}			public class NodeDisc extends Sprite {				public function NodeDisc() {					}			}		}
