@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.Sprite;		internal final class NodeDisc extends Sprite {				public function NodeDisc() {					}			}	}
